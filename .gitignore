@@ -1,0 +1,25 @@
+# Build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Portable JDK (too large for Git)
+jdk17/
+
+# Maven wrapper jar (downloaded automatically)
+# Keep .mvn/wrapper/maven-wrapper.properties
+
+# Logs
+*.log
